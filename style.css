@@ -1,0 +1,139 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav{
+    padding: 10px 25px 25px 25px;
+    justify-content: space-between;
+    display: flex;
+    width: 950px;
+    height: 50px;
+    background-color: lightgrey;
+    margin: auto;
+}
+
+#loginbutt{
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 20px;
+    background-color: #2b78e4;
+    color: white;
+    box-shadow: 5px 5px 0px black;
+}
+
+.nav h1{
+    font-weight: lighter;
+    font-size: 40px;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.nav input{
+    margin-top: 15px;
+    height: 30px;
+    width: 400px;
+}
+
+#loginbutt{
+    width: 100px;
+}
+
+.container1{
+    margin: auto;
+    width: 1000px;
+    height: 300px;
+    display: flex;
+    padding: 30px;
+}
+
+#def1{
+    display: flex;
+    flex: 2;
+    border: 5px solid black;
+    margin-right: 30px;
+    height: inherit;
+}
+
+#adddef{
+    font-family: 'Balsamiq Sans', cursive;
+    padding: 20px;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    font-size: 30px;
+    flex: 1;
+    border: 5px solid black;
+    height: 200px;
+}
+
+
+#addbutt{
+    font-size: 20px;
+    font-family: 'Balsamiq Sans', cursive;
+    background-color: lightgreen;
+    box-shadow: 5px 5px 0px black;
+    margin-top: 30px;
+    height: 50px;
+    width: inherit;
+}
+
+.container2{
+    margin: auto;
+    width: 1000px;
+    height: 300px;
+    padding: 30px;
+}
+
+#def2{
+    display: flex;
+    border: 5px solid black;
+    height: inherit;
+    width: 610px;
+}
+
+#defcol{
+    margin: 30px;
+    line-height: 60px;
+    flex: 1;
+    text-align: center;
+    align-self: center;
+}
+
+#defcol h1{
+    font-weight: lighter;
+    font-size: 60px;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+#defcol h2{
+    font-weight: lighter;
+    font-style: italic;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+#defcol p{
+    font-family: sans-serif;
+}
+
+span{
+    font-style: italic;
+}
+
+#defp{
+    font-family: 'Balsamiq Sans', cursive;
+    margin: 50px;
+    font-size: 20px;
+    flex: 3;
+    align-self: center;
+}
+
+#likebutt{
+    background-color: yellow;
+    box-shadow: 5px 5px 0px black;
+    height: 40px;
+    width: 100px;
+}
+
+#you{
+    font-style: normal;
+    font-weight: bold;
+}
